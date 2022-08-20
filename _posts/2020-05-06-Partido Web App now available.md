@@ -1,3 +1,8 @@
+---
+title: "Partido Web App now available"
+date: 2020-05-06
+---
+
 ## The Partido App is now also available as a platform-independent web app!
 
 For all users without an Android smartphone or for all those who also want to use Partido on their desktop PC: You can now access and use your common costs via any web browser!
