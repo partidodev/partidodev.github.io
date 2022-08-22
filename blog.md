@@ -1,5 +1,5 @@
 {% for post in site.posts %}
-<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {{ post.excerpt }}
 <a href="{{ post.url }}">Read more</a>
 {% endfor %}
