@@ -895,3 +895,16 @@ a:hover {
 .page-header {
   padding: 2rem 1rem !important
 }
+
+#header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  max-width: 64rem;
+  margin: 0 auto;
+  align-items: center;
+}
+
+#navigation a {
+  color: white;
+  padding: 10px;
+}
